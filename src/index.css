@@ -1,0 +1,18 @@
+:root {
+  --header-height: 60px;
+  --footer-height: 60px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+}
